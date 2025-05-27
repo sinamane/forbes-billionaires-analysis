@@ -1,1 +1,1 @@
-# forbes-billionaires-analysis
+# FORBES BILLIONAIRES EVOLUTION (1997-2024) || SQL + POWER BI
