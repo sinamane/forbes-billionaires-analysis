@@ -117,8 +117,11 @@ Based on the insights above, here are key strategies that countries and stakehol
 ### CHAPTER 5: DASHBOARD
 
 ---
+![0001.png](images/0001.png)
 
-![Project_Dashboard_page-0001.jpg](attachment:2520d1e5-7d18-4992-8cf6-bc6390b72384:Project_Dashboard_page-0001.jpg)
+![0002.png](images/0002.png)
+
+![0003.png](images/0003.png)
 
 ### CHAPTER 6: REFLECTIONS
 
